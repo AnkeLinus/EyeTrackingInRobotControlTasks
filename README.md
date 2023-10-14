@@ -20,8 +20,5 @@ The data is available in form of an excel or xps-file. Please get in contact, if
 Since finding data in this field is quite hard, we would like to engage researchers in this field to notify us over new deveopments in this field. We would be glad to add your work to our repository creating a unique glossar for this community. You can contact us by writing a mail to "anke.fischer-janzen@hs-offenburg.de".
 
 ## Licence 
-If you use this list in publications please cite this work as "Anke Fischer-Janzen, Eye Tracking Robot Control Tasks, published 13.10.2023, doi: ". 
-
-
-
+This data set is free to use. If you use this list in publications please cite this work as "Fischer-Janzen, A.: Eye Tracking in Robot Control Tasks, published 13.10.2023, doi: https://doi.org/10.5281/zenodo.10003313". 
 Thank you in advance. 
