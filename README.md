@@ -17,7 +17,7 @@ Content of the file:
 The data is available in form of an excel or xps-file. Please get in contact, if you need other data formats. 
 
 ## Please contribute
-Since finding data in this field is quite hard, we would like to engage researchers in this field to notify us over new deveopments in this field. We would be glad to add your work to our repository creating a unique glossar for this community. You can contact us by writing a mail to "anke.fischer-janzen@hs-offenburg.de".
+Since finding data in this field is quite hard, we would like to encourage researchers in this field to notify us over new deveopments in this field. We would be glad to add your work to our repository creating a unique glossar for this community. You can contact us by writing a mail to "anke.fischer-janzen@hs-offenburg.de".
 
 ## Licence 
 This data set is free to use. If you use this list in publications please cite this work as "Fischer-Janzen, A.: Eye Tracking in Robot Control Tasks, published 13.10.2023, doi: https://doi.org/10.5281/zenodo.10003313". 
