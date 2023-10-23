@@ -1,7 +1,7 @@
 # Eye Tracking In Robot Control Tasks
 This List is part of a systematic review. It contains current work of researchers around the world, who work in the field of eye tracking control for robotic arms. These controls are used for assistive robotics, aiding physically impaired people in everyday life and in shared workspaces. 
 
-Content of the file: 
+Content of the study description files contain: 
 - Authors names
 - Title
 - publication year
@@ -13,6 +13,15 @@ Content of the file:
 - Task description
 - number of participants and trials
 - Performed empirical test
+
+Content of the overview measurement files contain: 
+- Author names,
+- Title,
+- Publication Year,
+- DOI
+- Task-related parameter e.g. task completion time, success rate etc.
+- Computational parameter such as accuracy
+- Empirical parameter f.e. results of SUS-questionnair or NASA TLX.
 
 The data is available in form of an excel or xps-file. Please get in contact, if you need other data formats. 
 
