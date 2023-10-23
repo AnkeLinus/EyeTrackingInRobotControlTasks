@@ -1,0 +1,126 @@
+Authors Information				Technical Background 		Task Related Parameter		Computational Parameter		Empirical Parameter	
+Authors	Year of Publication	Titel	Doi	Used input technology	Task description of user study	Measured Parameter	Outcome if not different labled in average +/-SD 	Measured Parameter	Outcome if not different labled in average +/-SD 	Measured Parameter	Outcome if not different labled in average +/-SD 
+Alsharif, S., Kuzmicheva, O., and Gräser, A.	2016	Gaze Gesture-Based Human Robot Interface	-	Eye tracking	Two columns were presented Two subtasks were executed. The user should control the robot to grasp the first cube from the first column and put it on the second column behind it (first subtask), then grasp the other cube from the third column and put it on the first one (second subtask).	Task completion time	5,59 min (+/-1,14 min)	-	-	NASA TLX	"Mental Demand: 50 (+/-20)
+Physical Demand: 43 (+/- 24)
+Temporal Demand: 24 (+/-12,20)
+Performance: 19 (+/-13,68)
+Effort: 39 (+/-18,24)
+Frustration: 19 (+/-16,24)"
+						Number of required gestures to complete the task	5 to 24 gestures (+/- 5)	-	-	-	-
+Bannat, A., gast, J., Rehrl, T., Rösel, W., Rigoll, G., and Wallhoff, F.	2009	A Multimodal Human-Robot-Interaction Scenario: Working Together with an Industrial Robot	https://doi.org/10.1007/978-3-642-02577-8_33 	Multiple input modalities	No User Study was conducted.	-	-	-	-	-	-
+Bien, Z., Kim, D., Chung, M., Kwon, D., and Chang, P.	2003	Development of a wheelchair-based rehabilitation robotic system (KARES II) with various human-robot interaction interfaces for the disabled	https://doi.org/10.1109/AIM.2003.1225462 	Multiple input modalities	No User Study was conducted.	-	-	-	-	-	-
+Bien, Z., Chung, M., Chang, P., Kwon, D., Kim, D., Han, J., Kim, J., Kim, D., Park, H., Kang, S., Lee, K., and Lim, S.	2004	Integration of a Rehabilitation Robotic System (KARES II) with Human-Friendly Man-Machine Interaction Units	https://doi.org/10.1023/B:AURO.0000016864.12513.77 	Work comparing different input modalities	The experiment tested the performance of the system in a drinking task.	Success rate	92%	Accuracy for x-y-coordinates (x,y)	34,08 px, 8,86 px (+/-53,78px,+/-50,56px)	Questionnaire not standardized	Satisfaction: >50%
+Catalán, J.M., Díez, J.A., Bertomeu-Motos, A., Badesa, F.J., and Garcia-Aracil, N.	2017	Multimodal Control Architecture for Assistive Robotics	http://dx.doi.org/10.1007/978-3-319-46669-9_85 	Eye Tracking	No User Study was conducted.	-	-	-	-	-	-
+Cio, Y.L, Raison, M., Leblond Menard, C., and Achiche, S.	2019	Proof of Concept of an Assistive Robotic Arm Control Using Artificial Stereovision and Eye-Tracking	https://doi.org/10.1109/TNSRE.2019.2950619 	Eye tracking	No User Study was conducted.	Success rate	"One object pick up: 92%
+One object and one obstacle: 91%
+One Object and two obstacles: 98%"	Path planning Time	"One object pick up: 0,43s (+/-0,06s)
+One object and one obstacle: 0,41s (+/-0,05s)
+One Object and two obstacles: 0,4s (+/-0,04s)"	-	-
+						Execution time	"One object pick up: 13,8s (+/-0,4s)
+One object and one obstacle: 17,3s (+/-0,0s)
+One Object and two obstacles: 18,4s (+/-0,46s)"	-	-	-	-
+Di Maio, M., Dondi, P., Lombardi, L., and Porta, M.	2021	Hybrid Manual and Gaze-Based Interaction With a Robotic Arm	https://doi.org/10.1109/ETFA45728.2021.9613371 	Multiple input modalities	The participants were asked to execute joint movemnts by using their gaze.	-	-	-	-	SUS Questionnaire	81,7
+Dragomir, A., Pana, C.F., Cojocaru, D., and Manga, L.F.	2021	Human-Machine Interface for Controlling a Light Robotic Arm by Persons with Special Needs	http://dx.doi.org/10.1109/ICCC51557.2021.9454664 	Eye tracking	No User Study was conducted.	-	-	-	-	-	-
+Dziemian, S., Abbott, W.W., and Faisal, A.A.	2016	Gaze-based teleprosthetic enables intuitive continuous control of complex robot arm use: Writing & drawing	https://doi.org/10.1109/BIOROB.2016.7523807 	Eye tracking	The task contained tele-writing or painting: Participants were asked to imagine writing a text with the pen and look where the pen would be going. They were asked to write letters as fast and as accurate as possible, with a given letter size template.	Task completion time	"drawing 50 circles, first trial: 301s
+drawing 50 circles, second trial: 144s"	-	-	-	-
+						Number of active fixations	"drawing 50 circles, first trial: 159
+drawing 50 circles, second trial: 101"	-	-	-	-
+Huang, Q., Zhang, Z., Yu, T., He, S., and Li, Y.	2019	An EEG-/EOG-Based Hybrid Brain-Computer Interface: Application on Controlling an Integrated Wheelchair Robotic Arm System	https://doi.org/10.3389/fnins.2019.01243 	EOG based approach	The study thested a self-drinking task. Participants were asked to move a wheelchair to a table (EEG), manipulating the robotic arm via EOG to grasp a bottle and drink with a straw, placing the bottle back and navigating back through multiple obstacles and a door.	EOG command generation	1,3s (+/-0,3s)	EOG accuracy	96,2% (+/-1,3%)	-	-
+						Number of collisions	"Task 1: 0,6
+Task 2: 0,5
+Task 3: 0,7"	False-positive rate	1,5 events(+/-1,2 events) 	-	-
+Huang, C., and Mutlu, B.	2016	Anticipatory robot control for efficient human-robot collaboration	https://doi.org/10.1109/HRI.2016.7451737 	Multiple input modalities	Participants had to choose a smoothie out of 12 ingredients. The robot system has to anticipate the choices by the eye gaze and grasp the right item and place it infront of the user.	Task completion time	"Selection task reactive: 8,8s (+/-1,26s)
+Selection task anticipatory: 6,29s (+/-1,99s)"	Projection accuracy	Selection task anticipatory: 81,25%	Questionnaire not standardized	Participants answered text questions
+						-	-	Prediction accuracy	Selection task anticipatory: 55,83%	-	-
+						-	-	Response time	"Selection task reactive: 482,71ms (+/-551,33ms)
+Selection task anticipatory: 256,41 ms (+/-443,1ms)"	-	-
+Iáñez, E., Azorín, J.M., Fernández, E., and Úbeda, A.	2010	Interface based on electrooculography for velocity control of a robot arm	https://doi.org/10.1080/11762322.2010.503107 	EOG based approach	Moving the robot over certain targets.	Success rate	between 83% and 88,6% (+/-0,29% and 0,35%)	-	-	-	-
+						Eucledian distance	between 0,21 and 0,23 (+/-0,18 and 0,22)	-	-	-	-
+Ivorra, E., Ortega, M., Catalán, J.M., Ezquerro, S., Lledó, L.D., Garcia-Aracil, N., and Alcañiz, M.	2018	Intelligent Multimodal Framework for Human Assistive Robotics Based on Computer Vision Algorithms	https://doi.org/10.3390/s18082408 	Hybrid BCI	The participants were asked to select three kinds of objects by gaze (a glass, a bottle, and a fork) wearing the Tobii Glasses.	Success rate in object selection	between 15 and 20 out of 20 trials	Detection time	0,96s to 1,06s (+/-0,02s to 0,69s)	-	-
+						Selection time	between 4,04s and 24,63s (+/-1,02 to 46,31s)	Various other parameters were stated to compare different objects. We refer to the paper.	-	-	-
+Jones, E., Chinthammit, W., Huang, W., Engelke, U., and Lueg, C.	2018	Symmetric Evaluation of Multimodal Human–Robot Interaction with Gaze and Standard Control	https://doi.org/10.3390/sym10120680 	Work comparing different input modalities	Participants were asked to play chess in three different difficulties (number of moves, number of figures), and 3 different modalities (eye tracking, controller, multimodal (combined))	Task completion time (for 3 input modatities: controller, mulimodal, gaze) (Extracted from graph)	"Simple chess task: between 70s and 90s
+Moderate chess task: between 75s and 85s 
+Complex task: between 150s and 190s"	-	-	NASA TLX (Mean value of all questionnaire parameter and all input modalites)	"Simple chess task: between 20 and 52
+Moderate chess task: between 21 and 43 
+Complex task: between 23 and 51"
+						Significant diffent found in group comparison	Yes, for completiontime and workload between input modalities in the complex task.	-	-	-	-
+Khan, A., Memon, M.A., Jat, Y., and Khan, A.	2012	Electro-Occulogram Based Interactive Robotic Arm Interface for Partially Paralytic Patients	-	EOG based approach	No User Study was conducted.	-	-	-	-	-	-
+Kim, D.H., Kim, J.H., Yoo, D.H., Lee, Y.J., and Chung, M.J.	2001	A Human-Robot Interface Using Eye-Gaze Tracking System for People with Motor Disabilities	-	Eye tracking	The participant were asked to push buttons by gazing on them, yet the study did represent a proof of concept. No descriptions on participants were given. Other tests with playing FreeCell.	-	-	Accuracy of the eye tracking device	"u:0,68mm (+/-8,1mm)
+v: 2,45mm (+/- 9,3mm)"	-	-
+Li, S., Zhang, X., and Webb, J.D.	2017	3-D-Gaze-Based Robotic Grasping Through Mimicking Human Visuomotor Function for People With Motion Impairments	https://doi.org/10.1109/TBME.2017.2677902 	Eye tracking	2 staged grasping approach by fixating locations on the object. The evaluation was quantified from two aspects: 1) the success rate of the grasping task and 2) subjective evaluation using questionnaires.	Sucess rate	"Determinition of object location by 3D-gaze: 55,60%
+With preknown object location: 74,20%"	Accuracy	"Gaze vector method: 2,4cm (+/-1,2cm)
+Visual axes intersection method: 8,9cm (+/-7,9cm)"	USE Questionnaire	"Overall rating for Usefullness, A1: 3,5 of 4
+Overall rating for Ease of Use, A2: 2,9 of 5
+Evaluation of successful grasps, A3: 2,5 of 4
+Evaluation of successful grasps, A4: 3,2"
+						Cartesian error	"Gaze vector method: 2,4cm (+/-1,2cm)
+Visual axes intersection method: 8,9cm (+/-7,9cm)"	Object localization	pose estimation of the object: 2,6cm (+/-2cm)	-	-
+McMullen, D.P., Hotson, G., Katyal, K.D., Wester, B.A., Fifer, M.S., McGee, T.G., Harris, A., Johannes, M.S., Vogelstein, R.J., Ravitz, A.D., Anderson, W.S., Thakor, N.V., and Crone, N.E.	2014	Demonstration of a semi-autonomous hybrid brain-machine interface using human intracranial EEG, eye tracking, and computer vision to control a robotic upper limb prosthetic	https://doi.org/10.1109/tnsre.2013.2294685	Hybrid BCI	Participants were asked to conduct a reach-grasp-and-drop task, with 3 different balls. It was shown in an objective measurement that up to 8 objects could be detected by the computer vision algorithm with eye tracking. 	Success rate	"After one block of online testing (participant 2):  77,80%
+After two blocks of online testing (participant 1): 71,4%
+Complete System: 67,70%
+Reach and grasp task (both participants): 100% (participant 1), 70% (p.2)"	Prediction accuracy of the complete system	91,90%	-	-
+						Task completion time	Reach and grasp task (both participants): 22,3s (participant 1) and 12,2s (participant 2)	Respose time of the complete system	3,55s	-	-
+Onose, G., Grozea, C., Anghelescu, A., Daia, C., Sinescu, C. J., Ciurea, A. V., Spircu, T., Mirea, A., Andone, I., Spânu, A., Popescu, C., Mih?escu, A-S, Fazli, S., Danóczy, M., and Popescu, F.	2012	On the feasibility of using motor imagery EEG-based brain-computer interface in chronic tetraplegics for assistive robotic arm control: a clinical test and long-term post-trial follow-up	https://doi.org/10.1038/sc.2012.14 	Hybrid BCI	Participants were told to visually focus on a glass and activate the BCI system by performing the agreed-to ‘grab’ class (the first of the feedback class pair). After the robot grab action sequence was completed, they were instructed to place the glass back.	BCI performance	61,1% to 98,6%	Accuracy	"Classification: 81%
+Training: 70,5%"	Questionnaire not standardized	Feel of control: 77,7% 
+Park, K., Choi, S.H., Moon, H., Lee, J.Y., Ghasemi, Y., and Jeong, H.	2022	Indirect Robot Manipulation using Eye Gazing and Head Movement For Future of Work in Mixed Reality	https://doi.org/10.1109/VRW55335.2022.00107 	AR system	No User Study was conducted.	-	-	-	-	-	-
+Perez Reynoso, F.D., Niño Suarez, P.A., Aviles Sanchez, O.F., Calva Yañez, M.B., Vega Alvarado, E., and Portilla Flores, E.A.	2020	A Custom EOG-Based HMI Using Neural Network Modeling to Real-Time for the Trajectory Tracking of a Manipulator Robot	https://doi.org/10.3389/fnbot.2020.578834 	EOG based approach	Experiement 1: Standard calibration with inexpert and expert users, Experiment 2: Customized Calibration With Inexpert Users	Task completion time	"Customized calibration first test: 215s
+Customized calibration last test: 48,51s"	Response time	"Customized calibration first test: 224,15s
+Customized calibration last test: 24,09s"	-	-
+Rusydi, M., Okamoto, T., Ito, S., and Sasaki, M.	2014	Rotation Matrix to Operate a Robot Manipulator for 2D Analog Tracking Objects Using Electrooculography	https://doi.org/10.3390/robotics3030289 	EOG based approach	The participants were told to focus 20 different points on a display. 	-	-	Average error between gaze angle and actual position (?x, ?y) 	"Operator 1: 2,57° (+/-0,94°), 2,77° (+/- 0,76°)
+Operator 2: 2,30° (+/-0,89°), 2,39° (+/- 1,25°)
+Operator 3: 2,40° (+/-0,87°), 2,40° (+/- 1,14°)"	-	-
+Rusydi, M.I., Sasaki, M., and Ito, S.	2014	Affine transform to reform pixel coordinates of EOG signals for controlling robot manipulators using gaze motions 	https://doi.org/10.3390/s140610107 	EOG based approach	The participants were told to fixate 24 visual markers. After training they conducted certain germetrical patters to evaluate the mathematical model.	Average angle and average dialtation as well as average position given in the publication. 	Due to the amount of data in the graphs we reffer to the authors work. 	-	-	-	-
+Scalera, L., Seriani, S., Gallina, P., Lentini, M., and Gasparetto, A.	2021	Human–Robot Interaction through Eye Tracking for Artistic Drawing	https://doi.org/10.3390/robotics10020054	Eye tracking	No User Study was conducted.	Comparison of original picture, drawn picture and filtered data picture.	-	-	-	-	-
+Scalera, L., Seriani, S., Gasparetto, A., and Gallina, P.	2021	A novel robotic system for painting with eyes	http://dx.doi.org/10.1007/978-3-030-55807-9_22 	Eye Tracking	The participants were asked to draw with their eyes on basis of AI-generated pictures. The eye movements were interpreted in two ways. While focussing on a location the participant could paint a point, when saccades were performed a line was drawn.	Comparison of original picture, drawn picture and filtered data picture.	-	-	-	-	-
+Sharma, V.K., Saluja, K., Mollyn, V., and Biswas, P.	2020	Eye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment	https://doi.org/10.1145/3379155.3391324	Eye tracking	Participants were asked to pick and drop a Badminton shuttlecock. In the first study the participants could bring the robotic arm at any random point within the field of reach of the robotic arm. In the second task directional arrows were given to move the robot.	Task completion time	"Reaching task of SSMI-participants: 53s to 150s (+/-10s to 75s) 
+Reaching task of able-bodied part.: 45s to 49s (+/-5s) "	-	-	-	-
+						Number of direction changes	"Reaching task of SSMI-participants: 1,2 to 2,2 (+/-0,6 to 1,2) (extracted from graph)
+Reaching task of able-bodied part.: 2,52 to 3 (+/-1 to 1,5) (extracted from graph)"	-	-	-	-
+						Improvement in Performance (SSMI-participants	28%	-	-	-	-
+						Number of p. exceeding task compl. Time (both gorups)	3 of 18%	-	-	-	-
+Sharma, V.K., Murthy, L. R. D., and Biswas, P.	2022	Comparing Two Safe Distance Maintenance Algorithms for a Gaze-Controlled HRI Involving Users with SSMI	https://doi.org/10.1145/3530822	Eye Tracking	The participant was asked to perform the task of reaching the designated target for a print on cloths twice. The target positions were randomized for each trial and participant.	Task completion time (all data collected from graph)	"Able-bodied participants, Trial 1: 58s (+/- 8s)
+Able-bodied participants, second trial: 30s (+/-6s)
+SSMI participants, first trial: 143s (+/- 9s)
+SSMI participants, second trial: 100s (+/-12s)"	-	-	-	-
+Stalljann, S., Wöhle, L., Schäfer, J., and Gebhard, M.	2020	Performance Analysis of a Head and Eye Motion-Based Control Interface for Assistive Robots	https://doi.org/10.3390/s20247162 	Work comparing different input modalities	The participants were asked to perform a button activation task to assess discrete control (event-based control) and a Fitts’s Law task. The usability study was related to a use-case scenario with a collaborative robot assisting a drinking action.	Task completion time	"Button activation with eye tracking, able bodied participants: 1,67s (+/-0,06s)
+Button activation with MARG able-bodied p.: 1,53s (+/-0,11s)
+Button activation eye tracking tetraplegic p.: 1,90s
+Button activation Marg, tetraplegic p.: 2,58s"	-	-	NASA TLX	Due to the amount of data, we refer to the publication for details. In general all questionnaire items were listed below 50 except perfomance in the use casetast of tetraplegic participants with 80.
+						Success rate	"Use case test able-bodied participants: 90%
+Use case tetraplegic participants: 100%"	-	-	-	-
+Sunny, Md S.H., Zarif, Md I.I., Rulik, I., Sanjuan, J., Rahman, M.H., Ahamed, S.I., Wang, I., Schultz, K., and Brahmi, B.	2021	Eye-Gaze Control of a Wheelchair Mounted 6DOF Assistive Robot for Activities of Daily Living	http://dx.doi.org/10.21203/rs.3.rs-829261/v1 	Eye tracking	Participants were asked to perform activities of daily living (ADL), which included picking objects from the upper shelf, pick an object from a table, picking an object from the ground.	Task completion time	"Picking from shelf: 56s
+Picking from table: 53,5s
+Picking from ground: 62,5s"	-	-	Questionnaire not standardized	4,7 of 5
+Tostado, P.M., Abbott, W.W., and Faisal, A.A.	2016	3D gaze Cursor: continous calibration and end-point grasp control of robotic acuators	https://doi.org/10.1109/ICRA.2016.7487502 	Eye tracking	Participants were told to execute a reaching and grasping task with the robot.	Eucledian Error	1,6cm (+/-1,7cm)	-	-	Measurement of Cognitive load	Low (not specified)
+Ubeda, A., Iañez, E., and Azorin, J.M.	2011	Wireless and Portable EOG-Based Interface for Assisting Disabled People	https://doi.org/10.1109/TMECH.2011.2160354 	EOG based approach	"Participants were asked to perform trajectories between fixed visual markers by ""drawing"" these trajectories with their eyes. "	Time taken to each target (average)	181,9s	-	-	-	-
+						Error	2,7 cm	-	-	-	-
+						Score	38,2 pts	-	-	-	-
+Wang, Y., Xu, G., Song, A., Xu, B., Li, H., Hu, C., and Zeng, H.	2018	Continuous Shared Control for Robotic Arm Reaching Driven by a Hybrid Gaze-Brain Machine Interface	-	Hybrid BCI	Participants were asked to accomplish a reach task with eye tracking and BCI. In this study three paradigms were tested, which could be controlled by the participant: 1) The system with shared control both in speed and direction 2) with shared control in speed only 3) with shared control in direction only.	Significant diffent found in group comparison	Yes, between autonomous robot and non-autonomous robot.	Accuracy	Classification: 85,1% (+/- 4,3%)	-	-
+Wang, H., Dong, X., Chen, Z., and Shi, B.E.	2015	Hybrid gaze/EEG brain computer interface for robot arm control on a pick and place task	https://doi.org/10.1109/EMBC.2015.7318649 	Hybrid BCI	The Participants were asked to sort two objects colored red and blue in their individual colored spaces by using motor imagery to control the robot. 	Task completion time	97,8s	-	-	-	-
+						Significant diffent found in group comparison	Yes	-	-	-	-
+Webb, J.D., Li, S., and Zhang, X.	2016	Using Visuomotor Tendencies to Increase Control Performance in Teleoperation	https://doi.org/10.1109/ACC.2016.7526794 	Multiple input modalities	The task was described as picking up a tennis ball.	Task completion time	"Joystick control: 35s (+/-15s)
+Hybrid controller, set 1: 25s (+/-10s)
+Hybrid controller, set 2: 38s (+/-20s)
+Hybrid controller, set 3: 22s (+/-9s)"	-	-	USE Questionnaire	"Usefullness: 4,62 (+/-1,33)
+Ease of Use: 4,44 (+/-1,21)
+Ease of Learning: 5,88 (+/-1,64)
+Satisfaction: 4,9 (+/-1,59)"
+						Success rate of the grasp	"Joystick control: 40%
+Hybrid controller, set 1: 44%
+Hybrid controller, set 2: 56%
+Hybrid controller, set 3: 80%"	-	-	-	-
+						Number of grasps	"Joystick control: 1,3 (+/-0,45)
+Hybrid controller, set 1: 1,05 (+/-0,11)
+Hybrid controller, set 2: 15 (+/-0,5)
+Hybrid controller, set 3: 1,14 (+/-0,13)"	-	-	-	-
+Wöhle, L., and Gebhard, M.	2021	Towards Robust Robot Control in Cartesian Space Using an Infrastructureless Head- and Eye-Gaze Interface 	https://doi.org/10.3390/s21051798 	Eye tracking	The participant randomly gazes at five different target points inside a robots working area for 20 min in total. The user blinks with the left eye to send the gaze point to the robot control pipeline upon which the robot moves to this point.	Eucledian Error	"Eye-gaze: 27,4mm (+/-21,8mm)
+eye-gaze with head tracking: 19mm (+/-15,7mm)"	Mean RSME viual position estimation	28,0mm (+/-28,5mm)	-	-
+Yang, B., Huang, J., Sun, M., Huo, J., Li, X., Xiong, C.	2021	Head-free, Human Gaze-driven Assistive Robotic System for Reaching and Grasping	https://doi.org/10.23919/CCC52363.2021.9549800 	Eye tracking	Experiment I: By fixating on the scissors, the robot would reach for it and bring it toward the user. Experiment II: By fixation on the scissors, the robot would reach the scissors and catch the scissors. Then plan the motion trajectory of the robotic arm through a series of fixations to avoid obstacles on the table and finally bring it to the user.	Success rate	"Full system, automatic trajectory planning: 96%
+Full system, fixation-based trajectory planning: 92%"	Accuracy of gaze estimation	"Camera coordinate system: 2,24cm (+/-0,7cm)
+Robot coordinate system: 5,53cm (+/- 1,2cm)"	QUEST Qestionnaire	General agreement (not specified)
+						-	-	Recognition rate of siccors	90,86%	-	-
+Yoo, D.H., Kim, J.H., Kim, D.H., and Chung, M.J.	2002	A Human-Robot Interface using Vision-Based Eye Gaze estimation System	https://doi.org/10.1109/IRDS.2002.1043896 	Eye tracking	The user controlled the robot over a display in which he focused on buttons. The display was separated in squares to facilitate the evaluation.	Estimation error of the eye tracking device	"x: 22,7px (+/- 17,1px)
+y: 17,1px (+/- 13,5px)"	-	-	-	-
+Zeng, H., Wang, Y., Wu, C., Song, A., Liu, J., Ji, P., Xu, B., Zhu, L., Li, H., and Wen, P.	2017	Closed-Loop Hybrid Gaze Brain-Machine Interface Based Robotic Arm Control with Augmented Reality Feedback	https://doi.org/10.3389/fnbot.2017.00060 	Hybrid BCI	For each online trial, the BMI user operates the robotic arm to transfer a cuboid to the target area in the same color while avoiding the virtual obstacle in the middle of the workspace.	Number of trigger events	17	Agregated classification: 85,16% (+/- 4,83%)	-	-	-
+						Significant diffent found in group comparison	Yes, between feedback and non-feedback group	-	-	-	-
+Zhang, J., Guo, F., Hong, J., and Zhang, Y.	2013	Human-robot Shared Control of Articulated Manipulator	https://doi.org/10.1109/ISAM.2013.6643493 	EOG based approach	Participants were asked to control a robot along a grid on which a given path was shown.	Picture of actual trajectory and ideal trajectory	-	-	-	-	-
